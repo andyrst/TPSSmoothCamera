@@ -1,5 +1,4 @@
-# TPSSmoothCamera
-Smooth third person camera for Unreal Engine 4
+# Third person Smooth Camera movement for Unreal Engine 4
 
 Features:
 
